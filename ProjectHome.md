@@ -1,0 +1,2 @@
+This tool is designed to break the password for a digital certificate. I designed this tool to crack the simple password of a software digital certificate.
+I designed this tool to crack the simple password of a digital certificate stored on a computer.
